@@ -8,5 +8,5 @@ def print_pattern(text):
         print(line.center(2 * n - 1))
 
 # Example: Let's use "PYTHON" as the input text
-input_text = "YASIR"
+input_text = "25258"
 print_pattern(input_text)
